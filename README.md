@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Mashaal</h1>
 <h3 align="center">A Mobile Applications Developer (Flutter) from Egypt</h3>
 

@@ -1,8 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Mashaal</h1>
-<h3 align="center">A Mobile Applications Developer (Flutter) from Egypt</h3>
-
-<img align="center" alt="Coding" width="400" src="http://codifttechnologies.com/wp-content/uploads/2021/01/Mobile-app-development.gif">
+<h3 align="center">A Mobile Applications Developer (Flutter)</h3>
 
 - 📫 How to reach me **mahmoudmashaal30@gmail.com**
 

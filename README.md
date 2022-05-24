@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mashaal</h1>
 <h3 align="center">A Mobile Applications Developer (Flutter) from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="http://codifttechnologies.com/wp-content/uploads/2021/01/Mobile-app-development.gif">
+<img align="center" alt="Coding" width="400" src="http://codifttechnologies.com/wp-content/uploads/2021/01/Mobile-app-development.gif">
 
 - 📫 How to reach me **mahmoudmashaal30@gmail.com**
 

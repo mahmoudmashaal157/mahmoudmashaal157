@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)]
 <h1 align="center">Hi 👋, I'm Mahmoud Mashaal</h1>
 <h3 align="center">A Mobile Applications Developer (Flutter) from Egypt</h3>
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud mashaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud mashaal" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud mashaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud mashaal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-mashaal-78599b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud mashaal" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud.mashaal.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud mashaal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

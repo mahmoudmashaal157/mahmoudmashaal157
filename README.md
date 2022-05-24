@@ -1,12 +1,14 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Mashaal</h1>
 <h3 align="center">A Mobile Applications Developer (Flutter) from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif">
 
 - 📫 How to reach me **mahmoudmashaal30@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vmdAB1JZd2J-2evDT6nFytHhOZn_aFzM/view?usp=sharing](https://drive.google.com/file/d/1vmdAB1JZd2J-2evDT6nFytHhOZn_aFzM/view?usp=sharing)
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
